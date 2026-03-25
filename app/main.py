@@ -51,4 +51,3 @@ class CarWashStation:
             (total_rating_sum + rate) / self.count_of_ratings,
             1
         )
-
